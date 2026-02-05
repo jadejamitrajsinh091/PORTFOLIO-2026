@@ -9,9 +9,7 @@ A modern, responsive **personal portfolio website** built using
 ## 🔗 Live Website (Vercel)
 
 🌐 **Live Demo:**  
-
-
-> 📌 Replace this link with your actual Vercel deployment URL
+https://portfolio-2026-wheat.vercel.app/
 
 ---
 
