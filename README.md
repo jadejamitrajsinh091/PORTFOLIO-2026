@@ -16,10 +16,7 @@ https://portfolio-2026-wheat.vercel.app/
 ## 🖼️ Full Page Screenshot
 
 📸 **Website Preview:**  
-![Portfolio Full Page Screenshot](your-full-page-screenshot-link-here)
-
-> 💡 Take a full-page screenshot, upload it to GitHub repo, and paste the image link here
-
+<img width="1281" height="6085" alt="image" src="https://github.com/user-attachments/assets/66864361-5276-42cd-a7c0-58f735c3d833" />
 ---
 
 ## ✨ Key Features
